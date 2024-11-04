@@ -11,5 +11,4 @@
     Universidade Wydern – UniRuy
 </li>
 <hr>
-# Membros da Equipe
-<strong> Equipe </strong>
+
