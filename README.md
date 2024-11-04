@@ -16,8 +16,8 @@
 <strong>Sistema de Controle de Biblioteca:</strong>
 
 <p>Banco de dados desenvolvido para atender os requisitos de <br>uma biblioteca tendo como principais funcionalidades:</p>
-<li>Empréstimos e devoluções de livros</li>
-<li>Cadastro de usuários</li>
+<li>Empréstimos e Devoluções de Livros</li>
+<li>Cadastro de Usuários</li>
 <li>Controle de Reservas</li>
 <li>Histórico de Empréstimos</li>
 <li>E outros</li>
