@@ -1,4 +1,5 @@
 # Projeto Banco de Dados
+<hr>
 <li>
     Repositório desenvolvido para o projeto da disciplina Banco de Dados 
 </li>
