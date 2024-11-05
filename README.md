@@ -21,6 +21,7 @@
 <li>Controle de Reservas</li>
 <li>Histórico de Empréstimos</li>
 <li>E outros</li>
+<hr>
 
 <h1>Membros</h1>
     <ol>
