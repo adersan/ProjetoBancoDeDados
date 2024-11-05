@@ -44,7 +44,7 @@
             Lucas Lima Monteiro - Mat.: 202402533011 - <a href="https://github.com/Lu-2004">Repositório github</a>
         </li>
         <li>
-            xxxxxxx xxxxxx xxxxxx - Mat.:  <a href="https://github.com/adersan">Repositório github</a>
+            Júlio Cesar Trabuco - Mat.: 202403650061 - <a href="https://github.com/trabucoo">Repositório github</a>
         </li>
      </ol>
 
