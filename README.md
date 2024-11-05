@@ -40,7 +40,7 @@
             Edmilson Brito Silva - Mat.: 202408293291 - <a href="https://github.com/Edbrito-85">Repositório github</a>
         </li>
         <li>
-            xxxxxxx xxxxxx xxxxxx - Mat.:   <a href="https://github.com/adersan">Repositório github</a>
+            Lucas Lima Monteiro - Mat.: 202402533011 - <a href="https://github.com/Lu-2004">Repositório github</a>
         </li>
         <li>
             xxxxxxx xxxxxx xxxxxx - Mat.:  <a href="https://github.com/adersan">Repositório github</a>
